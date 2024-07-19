@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974335681308",
+    "project_id": "wealthguard-6dd74",
+    "storage_bucket": "wealthguard-6dd74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974335681308:android:948d2f000647d5a6c5d0d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_series"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4NtGRejlwynGXNYSVq7OOQEolzeST78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
